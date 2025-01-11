@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: Lime;
+    padding: 6px;
+}
+h1{
+    text-align: center;
+    color: blue;
+    background-color: aqua;
+}
+footer{
+    border:3px solid rebeccapurple;
+}
